@@ -1,4 +1,4 @@
-## Lucas Cavalherie 
+# Lucas Cavalherie 
  <div>
   <a href="https://github.com/LucasCavalherie">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LucasCavalherie&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
