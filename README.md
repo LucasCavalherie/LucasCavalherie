@@ -1,8 +1,8 @@
 ## Lucas Cavalherie 
  <div>
   <a href="https://github.com/LucasCavalherie">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=LucasCavalherie&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCavalherie&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LucasCavalherie&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCavalherie&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
