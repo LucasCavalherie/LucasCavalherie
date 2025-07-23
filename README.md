@@ -24,7 +24,7 @@
 <ul>
   <li>🔭 At <strong>EBANX</strong>, my current focus is on <strong>PHP</strong> and scalable backend architecture.</li>
   <li>🎓 Pursuing a <strong>Master's Degree in Machine Learning & Artificial Intelligence</strong>.</li>
-  <li>👨‍💻 You can follow my professional journey and projects on my <a href="lucascavalherie.github.io/MeuPortfolio/">portfolio</a>.</li>
+  <li>👨‍💻 You can follow my professional journey and projects downloading my <a href="https://raw.githubusercontent.com/LucasCavalherie/LucasCavalherie/main/curriculum.pdf">curriculum</a>.</li>
   <li>🎲 In my spare time, I'm an avid enthusiast of <strong>board games</strong>!</li>
 </ul>
 
